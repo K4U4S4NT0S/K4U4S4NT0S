@@ -1,4 +1,4 @@
-<h1> Olá! Bem vindo ao Perfil do Kauã Santos🐱‍👤</h1>
+<h1> Olá! Bem vindo ao Perfil do Kauã Santos㊗️</h1>
 
 <div align="center">
   <a href="https://github.com/K4U4S4NT0S">
