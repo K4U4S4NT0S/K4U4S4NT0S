@@ -4,6 +4,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&weight=500&size=22&pause=1000&color=FFF&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
   </a>
+
+##
+
+<h3 align="left">My Skills </h3>
 </div>
 
 <div style="display: flex; gap: 10px; align-items: center;">
