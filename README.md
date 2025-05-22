@@ -41,6 +41,12 @@
   </a>
 </div>
 
+  ##
+
+<p align="center">
+  Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista - UNIP, campus Alphaville. Atualmente, estou focado no aprendizado de HTML, CSS, JavaScript e Python.
+  Estou sempre em busca de atualizar meus conhecimentos e encarar novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar o que sei para desenvolver sistemas e criar soluções eficazes para problemas reais.
+</p>
 
   ##
 
