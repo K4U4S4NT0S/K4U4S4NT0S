@@ -44,9 +44,8 @@
   ##
 
 <p align="center">
-  SSou estudante de Análise e Desenvolvimento de Sistemas na UNIP Alphaville, com foco em aprender e evoluir em tecnologias como Python, Figma, PHP, MySQL, React, JavaScript, CSS3 e HTML5. Gosto de encarar novos desafios, aprender constantemente e aplicar meus conhecimentos para criar soluções práticas e eficientes.
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP Alphaville. Tenho me dedicado a aprender e evoluir em tecnologias como Python, Figma, PHP, MySQL, React, JavaScript, CSS3 e HTML5. Gosto de enfrentar novos desafios, estou sempre em busca de aprendizado e curto transformar ideias em soluções práticas e eficientes no dia a dia.
 </p>
-
 
   ##
 
