@@ -6,7 +6,7 @@
   </a>
 
 ##
-
+<div align="center">
 <h3 align="left">My Skills </h3>
 </div>
 
