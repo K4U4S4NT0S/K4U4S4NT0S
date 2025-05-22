@@ -1,7 +1,8 @@
 <h1> WELCOME 💻 Kauã Santos</h1>
 
-<div align="center">
+<div align="right">
   <h3>⌨️ MY Readme</h3>
+
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!" alt="Typing SVG">
 </div>
 
