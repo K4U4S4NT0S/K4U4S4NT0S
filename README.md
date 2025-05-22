@@ -1,8 +1,8 @@
-<h1> WELCOME 💻 Kauã Santos</h1>
+<h1> 💻 Kauã Santos!! </h1>
 
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!" alt="Typing SVG">
 </div>
-
 
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
