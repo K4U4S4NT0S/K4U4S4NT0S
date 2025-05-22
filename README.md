@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!" alt="Typing SVG">
-</div>
 
-<div align="center">
-  <div style="display: inline_block"><br>
+  <!-- Título animado -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!" alt="Typing SVG">
+
+  <!-- Espaço entre o texto e os ícones -->
+  <br><br>
+
+  <!-- Ícones de tecnologias -->
+  <div style="display: inline_block">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,6 +16,7 @@
     <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Rafa-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   </div>
+
 </div>
 
   ##
