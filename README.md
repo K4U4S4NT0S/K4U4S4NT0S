@@ -1,7 +1,7 @@
 <h1> WELCOME 💻 Kauã Santos</h1>
 
 <p align="center">
-  <h3 align="center">⌨️ Readme Typing SVG</h3>
+  <h3 align="center">⌨️ MY Readme </h3>
 </p>
 
 <p align="center">
