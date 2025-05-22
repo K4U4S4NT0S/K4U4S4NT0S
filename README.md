@@ -1,15 +1,10 @@
 <h1> WELCOME 💻 Kauã Santos</h1>
 
-<p align="center">
-  <h3 align="center">⌨️ MY Readme </h3>
-</p>
+<h3 align="center">⌨️ MY Readme</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!; alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!" alt="Typing SVG">
 </p>
-
-> ✅ I increased the `width` a bit to accommodate the longer new line. You can adjust it as needed. Let me know if you'd like to change colors, speed, or font too!
-
 
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
