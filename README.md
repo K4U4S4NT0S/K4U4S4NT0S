@@ -10,7 +10,6 @@
 <div style="text-align: center;">
   <h3 style="text-align: left; display: inline-block;">My Skills</h3>
 </div>
-##
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" />
