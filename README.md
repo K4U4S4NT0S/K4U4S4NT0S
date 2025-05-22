@@ -24,8 +24,8 @@
 
   ##
 
-<div style="text-align: center;">
-  <h3>GitHub Stats</h3>
+<div style="text-align: center; background-color: #003366; padding: 20px; border-radius: 8px;">
+  <h3 style="color: #FFFFFF;">GitHub Stats</h3>
   <br>
   <img 
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=K4U4S4NT0S&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFF&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FFF&theme=jolly" 
