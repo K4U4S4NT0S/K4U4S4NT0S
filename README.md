@@ -24,18 +24,18 @@
 
   ##
 
-<div style="text-align: center; background-color: #4682B4; padding: 20px; border-radius: 8px;">
+<div style="text-align: center; background-color: #708090; padding: 20px; border-radius: 8px;">
   <h3 style="color: #ffffff;">GitHub Stats</h3>
   <br>
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=K4U4S4NT0S&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=4682B4&title_color=FFF&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FFF&theme=jolly" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=K4U4S4NT0S&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=708090&title_color=FFF&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FFF&theme=jolly" 
     alt="GitHub stats" 
     style="margin-bottom: 20px;"
   >
 
   <a href="https://github.com/K4U4S4NT0S/github-readme-stats" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=K4U4S4NT0S&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF&bg_color=4682B4&text_color=FFF&border_radius=3&border_color=FFF" 
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=K4U4S4NT0S&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF&bg_color=708090&text_color=FFF&border_radius=3&border_color=FFF" 
       alt="Most Used Languages"
     >
   </a>
