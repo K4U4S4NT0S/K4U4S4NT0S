@@ -49,7 +49,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP Alphaville. Tenh
 
   ##
 
-<h1> Para entrar em contato me sigam logo abaixo👇🏽 </h1>
+<h1> Para entrar em contato ...👇🏽 </h1>
 <div>
 <a href="https://instagram.com/_usantus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/<AOGUS>#8858" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
