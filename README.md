@@ -24,18 +24,7 @@
 
 ## 📊 GitHub Stats
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=K4U4S4NT0S&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=708090&title_color=FFFFFF&text_color=FFFFFF&border_radius=3&border_color=FFFFFF&icon_color=FFFFFF&theme=jolly" 
-  alt="GitHub stats"
-/>
-
-<br><br>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4U4S4NT0S&line_height=10&card_width=290&layout=compact&langs_count=6&show_icons=true&title_color=FFFFFF&bg_color=708090&text_color=FFFFFF&border_radius=3&border_color=FFFFFF" 
-  alt="Most Used Languages"
-/>
-
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K4U4S4NT0S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4U4S4NT0S&layout=compact&langs_count=7&theme=tokyonight" /> </p>
 ---
 
 ## 🚀 Sobre Mim
