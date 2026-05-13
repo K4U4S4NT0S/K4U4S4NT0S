@@ -1,17 +1,15 @@
-<div align="center">
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&weight=500&size=22&pause=1000&color=FFF&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
-  </a>
 
-##
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG" />
+</a>
 
-<div style="text-align: center;">
-  <h3 style="text-align: left; display: inline-block;">My Skills</h3>
-</div>
+---
 
-<div style="display: flex; gap: 10px; align-items: center;">
+## 💻 My Skills
+
+<p align="center">
   <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" />
   <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" />
   <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40" />
@@ -20,36 +18,49 @@
   <img alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" width="40" />
   <img alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" width="40" />
   <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="40" />
-</div>
-
-  ##
-
-<div style="text-align: center; background-color: #708090; padding: 20px; border-radius: 8px;">
-  <h3 style="color: #ffffff;">GitHub Stats</h3>
-
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=K4U4S4NT0S&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=708090&title_color=FFF&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FFF&theme=jolly" alt="GitHub stats" style="margin-bottom: 20px;"
- >
-
-  <a href="https://github.com/K4U4S4NT0S/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4U4S4NT0S&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF&bg_color=708090&text_color=FFF&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
-  </a>
-
-</div>
-
-  ##
-
-<p align="center">
-Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP Alphaville. Tenho me dedicado a aprender e evoluir em tecnologias como Python, Figma, PHP, MySQL, React, JavaScript, CSS3 e HTML5. Gosto de enfrentar novos desafios, estou sempre em busca de aprendizado e curto transformar ideias em soluções práticas e eficientes no dia a dia.
 </p>
 
-  ##
+---
 
-<h1> Para entrar em contato ...👇🏽 </h1>
-<div>
-<a href="https://instagram.com/_usantus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/<AOGUS>#8858" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:kauasantos0p7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kauã-santos-22b577228as3250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+## 📊 GitHub Stats
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=K4U4S4NT0S&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=708090&title_color=FFFFFF&text_color=FFFFFF&border_radius=3&border_color=FFFFFF&icon_color=FFFFFF&theme=jolly" 
+  alt="GitHub stats"
+/>
+
+<br><br>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4U4S4NT0S&line_height=10&card_width=290&layout=compact&langs_count=6&show_icons=true&title_color=FFFFFF&bg_color=708090&text_color=FFFFFF&border_radius=3&border_color=FFFFFF" 
+  alt="Most Used Languages"
+/>
+
+---
+
+## 🚀 Sobre Mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP Alphaville.  
+Tenho me dedicado a aprender e evoluir em tecnologias como Python, Figma, PHP, MySQL, React, JavaScript, CSS3 e HTML5.
+
+Gosto de enfrentar novos desafios, aprender continuamente e transformar ideias em soluções práticas e eficientes para o dia a dia.
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://instagram.com/_usantus" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:kauasantos0p7@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 </div>
